@@ -7,7 +7,7 @@ Please feel free to contact us at liviu.cotfas at ase .ro for further details.
 ## Boarding Scenarios
 
 All the simulations have been performed using the following settings:
-- occupancy level: all seats are occupied (180 passengers);
+- occupancy level: all window and aisle seats are occupied (120 passengers);
 - compliance scenario: S4 (described in our paper);
 - luggage situation: S2 (described in our paper).
 
