@@ -21,13 +21,13 @@ All the simulations have been performed using the following settings:
 ### 2. Back-to-front
 [![btf](recordings/btf.gif)](recordings/btf.gif)
 
-### 3. WilMA Back-to-front
+### 3. WilMA - Back-to-front
 [![wilma-btf](recordings/wilma-btf.gif)](recordings/wilma-btf.gif)
 
-### 4. WilMA Spread
+### 4. WilMA - Spread
 [![wilma-spread](recordings/wilma-spread.gif)](recordings/wilma-spread.gif)
 
-### 5. WilMA Back-to-front – one-per-row
+### 5. WilMA - Back-to-front – one-per-row
 [![wilma-btf-one-per-row](recordings/wilma-btf-one-per-row.gif)](recordings/wilma-btf-one-per-row.gif)
 
 ### 6. Reverse-pyramid – Steep
