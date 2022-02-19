@@ -1,6 +1,6 @@
 Recordings of the simulations presented in the paper
 ### **"Health Risks of Airplane Boarding Methods with Apron Buses When Some Passengers Disregard Safe Social Distancing"** 
-submitted to the `IEEE Access` journal.
+submitted to the `PLOS One` journal.
 
 Please feel free to contact us at liviu.cotfas at ase .ro for further details. 
 
